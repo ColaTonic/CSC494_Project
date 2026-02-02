@@ -17,7 +17,7 @@ I will be developing a system to mimic the universal studios wand interactions f
 
 -Get commands to activate various smarthome systems
 
--Use commands to run programs
+-Use commands to run pc programs
 
 ---
 
@@ -34,8 +34,6 @@ I will be developing a system to mimic the universal studios wand interactions f
 -"Wand" (IR reflector, motion sensor, wii remote, etc.)
 
 -Receiver (camera setup, sensor bar, etc.)
-
--Arduino
 
 -Raspberry pi
 
