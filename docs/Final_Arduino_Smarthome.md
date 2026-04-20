@@ -1,5 +1,5 @@
 
-# Arduino Smarthome Final
+# ESP32C6 Smarthome Final
 
 # Name - Ryan Heiert
 
@@ -15,9 +15,7 @@ list of devices, when only a couple are relevent to me.
 
 # Solution Domain:
 
-An Arduino Nano sending input to a Raspberry Pi with ESPHome, which sends API calls to my personal google home system. This means I have instant fine control over the smart devices in my room without having to pick them out.
-Hosting this on my own Pi also means that this solution is more secure and reliable than using the regular app,
-Since it would continue working if the app were to go down.
+An ESP32C6 sending input to a Raspberry Pi with Homeassistant and the ESPHome addon, which sends API calls to my personal google home system. This means I have instant fine control over the smart devices in my room without having to pick them out. Hosting this on my own Pi also means that this solution is more secure and reliable than using the regular app, since it would continue working if the app were to go down.
 
 ---
 
@@ -27,9 +25,11 @@ Since it would continue working if the app were to go down.
 
 -Raspberry Pi 3
 
--ESPHome (Arduino library for YAML script)
+-Home Assistant (Open source platform for smarthome devices)
 
--Google Home devices
+-ESPHome (Addon library for ESP devices)
+
+-Wiz Tunable Lighting
 
 ---
 # Video?
