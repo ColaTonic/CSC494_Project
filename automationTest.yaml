@@ -1,0 +1,20 @@
+# ------------------------------------------------------------------------------------------ #
+# Lines starting with “#” are comments and will be ignored by the automation.
+# Indentation determines hierarchy within the script.
+# Visit g.co/home/script-editor-docs for full documentation.
+# ------------------------------------------------------------------------------------------ #
+
+metadata:
+  name: Office on
+  description: Turn on the office light
+automations:
+  - starters:
+      - type: device.state.OnOff
+        device: Office Light - Office
+        state: on
+        is: false
+    actions:
+      - type: device.command.OnOff
+        devices:
+          - Office Light - Office
+        on: true
