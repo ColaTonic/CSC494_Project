@@ -1,8 +1,4 @@
-# ------------------------------------------------------------------------------------------ #
-# Lines starting with “#” are comments and will be ignored by the automation.
-# Indentation determines hierarchy within the script.
-# Visit g.co/home/script-editor-docs for full documentation.
-# ------------------------------------------------------------------------------------------ #
+// This is a simple example script to show what a google automation looks like, all code is hosted on the homeassistant server
 
 metadata:
   name: Office on
