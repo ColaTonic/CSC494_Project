@@ -45,4 +45,8 @@ In this project, I had to deal with several new languages including arduino code
 
 # Video Demo
 
+Youtube Link:
+https://youtube.com/shorts/UPkAOc3_4eQ?feature=share
+
+Google Drive Link:
 https://drive.google.com/file/d/14hx9jYhWfONpsX8ZDEQ-GbE8UPL85l4h/view?usp=drive_link
